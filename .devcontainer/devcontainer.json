@@ -40,10 +40,10 @@
     "ecmel.vscode-html-css",
     "pranaygp.vscode-css-peek",
     "formulahendry.auto-rename-tag"
-	]
+	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
+	"forwardPorts": [3000]
 
 	// Uncomment the next line if you want start specific services in your Docker Compose config.
 	// "runServices": [],
