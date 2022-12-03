@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: YourProfile
+    image: yourprofile
     build:
       context: .
       dockerfile: docker/app/Dockerfile.dev
