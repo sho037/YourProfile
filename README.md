@@ -1,19 +1,24 @@
-# Your Profile
+# README
 
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
+Things you may want to cover:
 
-## 仕様技術スタック(予定)
-* Git
-* GitHub
-* Ubuntu
-* Docker
-* VSCode
-* HTML
-* CSS
-* Ruby
-* Ruby on Rails
+* Ruby version
 
+* System dependencies
 
-## リポジトリの説明
-　Ruby on Rails, Docker等の練習をしながら何か作ってみようということで作成しました。
-やりたい方が居ればいくらでも連絡下さい。[ここ](https://sho037.github.io/)のコンタクトから連絡ください。
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
